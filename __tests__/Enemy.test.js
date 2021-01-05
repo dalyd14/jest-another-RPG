@@ -1,4 +1,3 @@
-const { TestScheduler } = require('jest')
 const Enemy = require('../lib/Enemy')
 const Potion = require('../lib/Potion')
 
